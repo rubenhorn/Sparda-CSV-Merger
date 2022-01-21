@@ -1,0 +1,11 @@
+# python
+__pycache__
+
+# pyinstaller
+build
+dist
+# use default generated spec file
+*.spec
+
+# data
+*.csv
